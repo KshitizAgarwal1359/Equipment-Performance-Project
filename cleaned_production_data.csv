@@ -1,0 +1,714 @@
+Production_Date,Production_Level,Location,Product_Type,Is_Outlier
+01-01-2021,3.903300065,North America,Associated Natural Gas Liquids,FALSE
+02-01-2021,59377,Africa,Crude Oil,FALSE
+03-01-2021,58.83500265,Africa,Natural Gas,FALSE
+04-01-2021,32110,Africa,Crude Oil,FALSE
+05-01-2021,91.43546305,Europe,Natural Gas,FALSE
+06-01-2021,9393.043723,Europe,Associated Natural Gas Liquids,FALSE
+07-01-2021,52.92817593,Asia Pacific,Natural Gas,FALSE
+08-01-2021,77.81276126,Africa,Natural Gas,FALSE
+10-01-2021,18.0584156,Africa,Associated Natural Gas Liquids,FALSE
+11-01-2021,40774,Africa,Crude Oil,FALSE
+12-01-2021,12.6122338,Asia Pacific,Natural Gas,FALSE
+13-01-2021,13.90369582,Africa,Associated Natural Gas Liquids,FALSE
+15-01-2021,86560,Europe,Crude Oil,TRUE
+16-01-2021,56645,Europe,Crude Oil,FALSE
+17-01-2021,13.59699538,Middle East,Associated Natural Gas Liquids,FALSE
+18-01-2021,9.143642624,Africa,Associated Natural Gas Liquids,FALSE
+19-01-2021,11590,Asia Pacific,Crude Oil,FALSE
+20-01-2021,1,Africa,Natural Gas,FALSE
+22-01-2021,77.68088412,Africa,Natural Gas,FALSE
+23-01-2021,85.14198234,Africa,Natural Gas,FALSE
+24-01-2021,75702,Middle East,Crude Oil,TRUE
+26-01-2021,1.764904613,Middle East,Associated Natural Gas Liquids,FALSE
+27-01-2021,31130,Middle East,Crude Oil,FALSE
+28-01-2021,9393.043723,North America,Associated Natural Gas Liquids,FALSE
+29-01-2021,70.25129602,Europe,Natural Gas,FALSE
+30-01-2021,65952,Asia Pacific,Crude Oil,FALSE
+31-01-2021,25.1010229,Europe,Natural Gas,FALSE
+01-02-2021,14.64878734,North America,Associated Natural Gas Liquids,FALSE
+02-02-2021,19.72888747,Middle East,Natural Gas,FALSE
+03-02-2021,9393.043723,Africa,Natural Gas,FALSE
+04-02-2021,94.73235387,North America,Natural Gas,FALSE
+05-02-2021,82607,North America,Crude Oil,TRUE
+06-02-2021,96382,Asia Pacific,Crude Oil,TRUE
+08-02-2021,15.87007158,Asia Pacific,Associated Natural Gas Liquids,FALSE
+09-02-2021,9.139182251,Asia Pacific,Associated Natural Gas Liquids,FALSE
+10-02-2021,2000,Asia Pacific,Crude Oil,FALSE
+11-02-2021,60057,Africa,Crude Oil,FALSE
+12-02-2021,61822,Asia Pacific,Crude Oil,FALSE
+13-02-2021,17.93992528,Africa,Associated Natural Gas Liquids,FALSE
+14-02-2021,3.906831833,North America,Associated Natural Gas Liquids,FALSE
+15-02-2021,10.91318819,Asia Pacific,Associated Natural Gas Liquids,FALSE
+16-02-2021,16.35578516,Europe,Associated Natural Gas Liquids,FALSE
+17-02-2021,51.83863945,Europe,Natural Gas,FALSE
+18-02-2021,39.00741247,North America,Natural Gas,FALSE
+20-02-2021,65910,Europe,Crude Oil,FALSE
+21-02-2021,13.69558094,Asia Pacific,Associated Natural Gas Liquids,FALSE
+22-02-2021,69789,Asia Pacific,Crude Oil,TRUE
+23-02-2021,68904,North America,Crude Oil,FALSE
+24-02-2021,81.80491211,Asia Pacific,Natural Gas,FALSE
+25-02-2021,89.22879818,Asia Pacific,Natural Gas,FALSE
+26-02-2021,1.192871174,North America,Associated Natural Gas Liquids,FALSE
+27-02-2021,36635,Africa,Crude Oil,FALSE
+28-02-2021,59.96585904,North America,Natural Gas,FALSE
+01-03-2021,10.0457691,Africa,Associated Natural Gas Liquids,FALSE
+02-03-2021,9393.043723,Middle East,Natural Gas,FALSE
+03-03-2021,29.94367604,North America,Natural Gas,FALSE
+04-03-2021,69.75640194,Asia Pacific,Natural Gas,FALSE
+05-03-2021,59.81256595,Asia Pacific,Natural Gas,FALSE
+06-03-2021,99.69683176,Europe,Natural Gas,FALSE
+07-03-2021,41.66294749,Africa,Natural Gas,FALSE
+08-03-2021,37.59606922,North America,Natural Gas,FALSE
+09-03-2021,99540,North America,Crude Oil,TRUE
+10-03-2021,20.75992671,Europe,Natural Gas,FALSE
+11-03-2021,4.517847006,North America,Associated Natural Gas Liquids,FALSE
+12-03-2021,10.19977316,Europe,Associated Natural Gas Liquids,FALSE
+13-03-2021,12.33902407,Middle East,Associated Natural Gas Liquids,FALSE
+14-03-2021,43829,North America,Crude Oil,FALSE
+15-03-2021,26.14973893,Middle East,Natural Gas,FALSE
+16-03-2021,11.1485667,Asia Pacific,Associated Natural Gas Liquids,FALSE
+17-03-2021,12146,Europe,Crude Oil,FALSE
+18-03-2021,72.76756536,North America,Natural Gas,FALSE
+19-03-2021,17.50076275,Africa,Associated Natural Gas Liquids,FALSE
+20-03-2021,6607,Europe,Crude Oil,FALSE
+21-03-2021,52.24572504,Africa,Natural Gas,FALSE
+22-03-2021,26.59273034,Middle East,Natural Gas,FALSE
+23-03-2021,94.69572371,Africa,Natural Gas,FALSE
+24-03-2021,13564,Africa,Crude Oil,FALSE
+25-03-2021,16.66739532,Middle East,Natural Gas,FALSE
+26-03-2021,24555,Europe,Crude Oil,FALSE
+27-03-2021,17.66628176,North America,Natural Gas,FALSE
+28-03-2021,78147,Africa,Crude Oil,TRUE
+29-03-2021,12.32641006,Europe,Associated Natural Gas Liquids,FALSE
+30-03-2021,73494,Africa,Crude Oil,TRUE
+31-03-2021,91.76539399,Asia Pacific,Natural Gas,FALSE
+01-04-2021,19.81059395,Asia Pacific,Associated Natural Gas Liquids,FALSE
+02-04-2021,12.7995191,Europe,Associated Natural Gas Liquids,FALSE
+03-04-2021,2.885437921,North America,Associated Natural Gas Liquids,FALSE
+04-04-2021,544,Middle East,Associated Natural Gas Liquids,FALSE
+05-04-2021,36439,North America,Crude Oil,FALSE
+06-04-2021,2.426232509,Middle East,Associated Natural Gas Liquids,FALSE
+07-04-2021,50.54533342,Europe,Natural Gas,FALSE
+08-04-2021,36.21333601,North America,Natural Gas,FALSE
+09-04-2021,73.62602469,Africa,Natural Gas,FALSE
+10-04-2021,95096,North America,Crude Oil,TRUE
+11-04-2021,80.9045224,Europe,Natural Gas,FALSE
+12-04-2021,16.27420793,North America,Associated Natural Gas Liquids,FALSE
+13-04-2021,20.32986722,North America,Natural Gas,FALSE
+14-04-2021,3.83079862,Asia Pacific,Associated Natural Gas Liquids,FALSE
+15-04-2021,14359,Middle East,Crude Oil,FALSE
+16-04-2021,45319,Europe,Crude Oil,FALSE
+17-04-2021,16.66056573,Asia Pacific,Associated Natural Gas Liquids,FALSE
+18-04-2021,21.19182924,Asia Pacific,Natural Gas,FALSE
+19-04-2021,8.647661864,Asia Pacific,Associated Natural Gas Liquids,FALSE
+20-04-2021,11.25964969,Africa,Associated Natural Gas Liquids,FALSE
+22-04-2021,76.1080531,Europe,Natural Gas,FALSE
+23-04-2021,12.32784031,North America,Natural Gas,FALSE
+24-04-2021,16.88321366,Europe,Associated Natural Gas Liquids,FALSE
+25-04-2021,19.06493928,Asia Pacific,Associated Natural Gas Liquids,FALSE
+26-04-2021,1.76440179,North America,Associated Natural Gas Liquids,FALSE
+27-04-2021,56.70674569,Africa,Natural Gas,FALSE
+28-04-2021,26.33402325,Europe,Natural Gas,FALSE
+29-04-2021,67.13062475,Africa,Natural Gas,FALSE
+30-04-2021,66605,Asia Pacific,Crude Oil,FALSE
+01-05-2021,39.99775543,Middle East,Natural Gas,FALSE
+02-05-2021,48228,Africa,Crude Oil,FALSE
+03-05-2021,10.4139114,Africa,Associated Natural Gas Liquids,FALSE
+04-05-2021,1.697245476,Middle East,Associated Natural Gas Liquids,FALSE
+05-05-2021,32.71589658,Middle East,Natural Gas,FALSE
+06-05-2021,87.84195256,Middle East,Natural Gas,FALSE
+07-05-2021,17.5179822,Africa,Associated Natural Gas Liquids,FALSE
+08-05-2021,14.87836768,Europe,Natural Gas,FALSE
+09-05-2021,66.03704853,Africa,Natural Gas,FALSE
+10-05-2021,9.398778159,Middle East,Associated Natural Gas Liquids,FALSE
+11-05-2021,40003,Europe,Crude Oil,FALSE
+12-05-2021,42752,Africa,Crude Oil,FALSE
+13-05-2021,10.20952414,Middle East,Associated Natural Gas Liquids,FALSE
+14-05-2021,12.56856167,North America,Associated Natural Gas Liquids,FALSE
+15-05-2021,4.009185112,Europe,Associated Natural Gas Liquids,FALSE
+16-05-2021,77384,Africa,Crude Oil,TRUE
+17-05-2021,34451,Middle East,Crude Oil,FALSE
+18-05-2021,95.23546681,North America,Natural Gas,FALSE
+19-05-2021,93.93877539,Asia Pacific,Natural Gas,FALSE
+20-05-2021,14.40282097,Africa,Associated Natural Gas Liquids,FALSE
+21-05-2021,98.22201693,North America,Natural Gas,FALSE
+22-05-2021,59.61385692,Africa,Natural Gas,FALSE
+23-05-2021,83561,Europe,Crude Oil,TRUE
+24-05-2021,17.70719885,Middle East,Associated Natural Gas Liquids,FALSE
+25-05-2021,569.98645,Africa,Natural Gas,FALSE
+26-05-2021,94.08235543,Europe,Natural Gas,FALSE
+27-05-2021,83.84945259,Asia Pacific,Natural Gas,FALSE
+28-05-2021,6.672561146,Europe,Associated Natural Gas Liquids,FALSE
+29-05-2021,19.97914433,Africa,Associated Natural Gas Liquids,FALSE
+30-05-2021,63529,Europe,Crude Oil,FALSE
+31-05-2021,41.06115475,Europe,Natural Gas,FALSE
+02-06-2021,96422,North America,Crude Oil,TRUE
+03-06-2021,8.27644613,Africa,Associated Natural Gas Liquids,FALSE
+04-06-2021,46704,Africa,Crude Oil,FALSE
+05-06-2021,18.35517319,Africa,Associated Natural Gas Liquids,FALSE
+06-06-2021,98.95726017,North America,Natural Gas,FALSE
+07-06-2021,96.83419945,North America,Natural Gas,FALSE
+08-06-2021,19.34171821,Asia Pacific,Associated Natural Gas Liquids,FALSE
+09-06-2021,62711,Middle East,Crude Oil,FALSE
+10-06-2021,18.29839188,Middle East,Associated Natural Gas Liquids,FALSE
+11-06-2021,3.738952903,North America,Associated Natural Gas Liquids,FALSE
+12-06-2021,66537,Asia Pacific,Crude Oil,FALSE
+13-06-2021,66.09334605,Africa,Natural Gas,FALSE
+14-06-2021,2.525991091,Asia Pacific,Associated Natural Gas Liquids,FALSE
+15-06-2021,17.3275015,Africa,Associated Natural Gas Liquids,FALSE
+16-06-2021,66.41192611,Africa,Natural Gas,FALSE
+17-06-2021,1.682082897,Middle East,Associated Natural Gas Liquids,FALSE
+18-06-2021,87727,Asia Pacific,Crude Oil,TRUE
+19-06-2021,16846,Africa,Crude Oil,FALSE
+20-06-2021,88066,Middle East,Crude Oil,TRUE
+21-06-2021,24.97283081,Asia Pacific,Natural Gas,FALSE
+22-06-2021,11028,Asia Pacific,Crude Oil,FALSE
+23-06-2021,43452,Asia Pacific,Crude Oil,FALSE
+24-06-2021,48.76181091,North America,Natural Gas,FALSE
+25-06-2021,8.828983231,North America,Associated Natural Gas Liquids,FALSE
+26-06-2021,27946,Middle East,Crude Oil,FALSE
+27-06-2021,17.54595237,Europe,Associated Natural Gas Liquids,FALSE
+28-06-2021,5.575766045,Europe,Associated Natural Gas Liquids,FALSE
+29-06-2021,35433,Africa,Crude Oil,FALSE
+30-06-2021,5.825569449,Asia Pacific,Associated Natural Gas Liquids,FALSE
+01-07-2021,1.178551198,Africa,Associated Natural Gas Liquids,FALSE
+02-07-2021,70.98497971,North America,Natural Gas,FALSE
+03-07-2021,62898,Asia Pacific,Crude Oil,FALSE
+04-07-2021,6.683930733,Africa,Associated Natural Gas Liquids,FALSE
+05-07-2021,9393.043723,Asia Pacific,Associated Natural Gas Liquids,FALSE
+06-07-2021,55422,Africa,Crude Oil,FALSE
+07-07-2021,36091,Africa,Crude Oil,FALSE
+08-07-2021,7.820223994,Asia Pacific,Associated Natural Gas Liquids,FALSE
+09-07-2021,6.609384324,Africa,Associated Natural Gas Liquids,FALSE
+10-07-2021,10.72881692,Middle East,Natural Gas,FALSE
+11-07-2021,15.15827093,Asia Pacific,Associated Natural Gas Liquids,FALSE
+12-07-2021,84569,Asia Pacific,Crude Oil,TRUE
+13-07-2021,88442,North America,Crude Oil,TRUE
+14-07-2021,5.761909201,North America,Associated Natural Gas Liquids,FALSE
+15-07-2021,2.846114666,Middle East,Associated Natural Gas Liquids,FALSE
+16-07-2021,80.97494356,Middle East,Natural Gas,FALSE
+17-07-2021,7.932363428,North America,Associated Natural Gas Liquids,FALSE
+18-07-2021,43680,Asia Pacific,Crude Oil,FALSE
+19-07-2021,8.894558775,North America,Associated Natural Gas Liquids,FALSE
+20-07-2021,75701,Asia Pacific,Crude Oil,TRUE
+21-07-2021,10.53410048,Asia Pacific,Associated Natural Gas Liquids,FALSE
+22-07-2021,38681,Africa,Crude Oil,FALSE
+23-07-2021,77.19034156,Asia Pacific,Natural Gas,FALSE
+24-07-2021,66385,Middle East,Crude Oil,FALSE
+25-07-2021,34571,Africa,Crude Oil,FALSE
+26-07-2021,7.949725939,Africa,Associated Natural Gas Liquids,FALSE
+27-07-2021,39663,Europe,Crude Oil,FALSE
+28-07-2021,64609,Asia Pacific,Crude Oil,FALSE
+29-07-2021,15.23122047,Asia Pacific,Associated Natural Gas Liquids,FALSE
+30-07-2021,8.239484486,Asia Pacific,Associated Natural Gas Liquids,FALSE
+31-07-2021,93452,North America,Crude Oil,TRUE
+01-08-2021,12.25221847,Europe,Natural Gas,FALSE
+02-08-2021,92.37303179,North America,Natural Gas,FALSE
+03-08-2021,2.201123782,Africa,Associated Natural Gas Liquids,FALSE
+04-08-2021,6.741613316,Africa,Associated Natural Gas Liquids,FALSE
+05-08-2021,23320,Middle East,Crude Oil,FALSE
+06-08-2021,44893,Africa,Crude Oil,FALSE
+07-08-2021,17739,North America,Crude Oil,FALSE
+08-08-2021,3.577616925,Africa,Associated Natural Gas Liquids,FALSE
+09-08-2021,70.3437597,Europe,Natural Gas,FALSE
+10-08-2021,62.8606311,North America,Natural Gas,FALSE
+11-08-2021,68.94297077,Africa,Natural Gas,FALSE
+12-08-2021,8.754201828,Asia Pacific,Associated Natural Gas Liquids,FALSE
+13-08-2021,95476,Asia Pacific,Crude Oil,TRUE
+14-08-2021,63115,Africa,Crude Oil,FALSE
+15-08-2021,52537,Middle East,Crude Oil,FALSE
+16-08-2021,7.979364211,Asia Pacific,Associated Natural Gas Liquids,FALSE
+17-08-2021,57184,Asia Pacific,Crude Oil,FALSE
+18-08-2021,21011,Africa,Crude Oil,FALSE
+19-08-2021,91870,North America,Crude Oil,TRUE
+20-08-2021,13.15036545,Middle East,Associated Natural Gas Liquids,FALSE
+21-08-2021,48713,North America,Crude Oil,FALSE
+22-08-2021,79000,North America,Crude Oil,TRUE
+23-08-2021,77641,North America,Crude Oil,TRUE
+24-08-2021,5.103075686,North America,Associated Natural Gas Liquids,FALSE
+25-08-2021,79.693172,Europe,Natural Gas,FALSE
+26-08-2021,41342,North America,Crude Oil,FALSE
+27-08-2021,75807,Asia Pacific,Crude Oil,TRUE
+28-08-2021,19408,Middle East,Crude Oil,FALSE
+29-08-2021,6947,Asia Pacific,Crude Oil,FALSE
+30-08-2021,82182,Asia Pacific,Crude Oil,TRUE
+31-08-2021,27838,Asia Pacific,Crude Oil,FALSE
+01-09-2021,150000,Africa,Crude Oil,TRUE
+02-09-2021,3.159336829,Middle East,Associated Natural Gas Liquids,FALSE
+03-09-2021,50.34476928,Asia Pacific,Natural Gas,FALSE
+05-09-2021,5.209445372,Europe,Associated Natural Gas Liquids,FALSE
+06-09-2021,91363,Europe,Crude Oil,TRUE
+07-09-2021,51.22382699,Middle East,Natural Gas,FALSE
+08-09-2021,67781,Africa,Crude Oil,FALSE
+09-09-2021,71.74877465,Africa,Natural Gas,FALSE
+10-09-2021,18.28431575,Middle East,Associated Natural Gas Liquids,FALSE
+11-09-2021,47219,Europe,Crude Oil,FALSE
+12-09-2021,13609,North America,Crude Oil,FALSE
+13-09-2021,66.18857449,Europe,Natural Gas,FALSE
+14-09-2021,14.53090313,Africa,Associated Natural Gas Liquids,FALSE
+15-09-2021,11.08057991,Africa,Associated Natural Gas Liquids,FALSE
+16-09-2021,12.50310904,Middle East,Associated Natural Gas Liquids,FALSE
+17-09-2021,3.173867376,Europe,Associated Natural Gas Liquids,FALSE
+18-09-2021,17.444354,Africa,Associated Natural Gas Liquids,FALSE
+19-09-2021,89.92819198,Africa,Natural Gas,FALSE
+20-09-2021,84.46773023,Africa,Natural Gas,FALSE
+21-09-2021,75.66512569,Asia Pacific,Natural Gas,FALSE
+22-09-2021,38.1271214,Asia Pacific,Natural Gas,FALSE
+23-09-2021,95.82332659,Africa,Natural Gas,FALSE
+24-09-2021,16957,Middle East,Crude Oil,FALSE
+25-09-2021,61606,Middle East,Crude Oil,FALSE
+26-09-2021,15.03712397,North America,Associated Natural Gas Liquids,FALSE
+27-09-2021,2.139638581,Europe,Associated Natural Gas Liquids,FALSE
+28-09-2021,7.263273647,Middle East,Associated Natural Gas Liquids,FALSE
+29-09-2021,9393.043723,Africa,Natural Gas,FALSE
+30-09-2021,1.977475519,Asia Pacific,Associated Natural Gas Liquids,FALSE
+01-10-2021,6.936529083,Middle East,Associated Natural Gas Liquids,FALSE
+02-10-2021,55,North America,Associated Natural Gas Liquids,FALSE
+03-10-2021,10.16159853,Middle East,Associated Natural Gas Liquids,FALSE
+04-10-2021,86.08360767,Asia Pacific,Natural Gas,FALSE
+05-10-2021,41512,Europe,Crude Oil,FALSE
+06-10-2021,61244,Europe,Crude Oil,FALSE
+07-10-2021,12.65789233,Europe,Associated Natural Gas Liquids,FALSE
+08-10-2021,84822,Asia Pacific,Crude Oil,TRUE
+09-10-2021,28647,Asia Pacific,Crude Oil,FALSE
+10-10-2021,15.48578084,Asia Pacific,Associated Natural Gas Liquids,FALSE
+11-10-2021,10.54952105,North America,Natural Gas,FALSE
+12-10-2021,13.48954806,Middle East,Associated Natural Gas Liquids,FALSE
+13-10-2021,87991,Middle East,Crude Oil,TRUE
+14-10-2021,74531,North America,Crude Oil,TRUE
+15-10-2021,47.78492444,Asia Pacific,Natural Gas,FALSE
+16-10-2021,53503,Asia Pacific,Crude Oil,FALSE
+17-10-2021,7.163274949,Europe,Associated Natural Gas Liquids,FALSE
+18-10-2021,2.61418376,Middle East,Associated Natural Gas Liquids,FALSE
+19-10-2021,25632,Europe,Crude Oil,FALSE
+20-10-2021,93338,Middle East,Crude Oil,TRUE
+21-10-2021,49.88016769,Africa,Natural Gas,FALSE
+22-10-2021,441,Africa,Natural Gas,FALSE
+23-10-2021,29.40120688,Europe,Natural Gas,FALSE
+24-10-2021,50242,Africa,Crude Oil,FALSE
+25-10-2021,42125,Europe,Crude Oil,FALSE
+26-10-2021,57.42406964,Asia Pacific,Natural Gas,FALSE
+27-10-2021,33903,Africa,Crude Oil,FALSE
+29-10-2021,95.07916785,North America,Natural Gas,FALSE
+30-10-2021,36.05024181,Middle East,Natural Gas,FALSE
+31-10-2021,70193,Africa,Crude Oil,TRUE
+01-11-2021,21932,Africa,Crude Oil,FALSE
+02-11-2021,14.369754,Europe,Associated Natural Gas Liquids,FALSE
+03-11-2021,16.83372985,Asia Pacific,Associated Natural Gas Liquids,FALSE
+04-11-2021,57044,Middle East,Crude Oil,FALSE
+05-11-2021,11.68673829,Middle East,Natural Gas,FALSE
+06-11-2021,61.81832447,Europe,Natural Gas,FALSE
+07-11-2021,73.85490654,Africa,Natural Gas,FALSE
+08-11-2021,20.36560354,Middle East,Natural Gas,FALSE
+09-11-2021,25.46858625,Europe,Natural Gas,FALSE
+10-11-2021,678,Asia Pacific,Natural Gas,FALSE
+11-11-2021,62240,Middle East,Crude Oil,FALSE
+12-11-2021,62104,Europe,Crude Oil,FALSE
+13-11-2021,57.15662887,Africa,Natural Gas,FALSE
+14-11-2021,77.12243438,North America,Natural Gas,FALSE
+15-11-2021,80.12060817,Middle East,Natural Gas,FALSE
+16-11-2021,13.03126867,Europe,Associated Natural Gas Liquids,FALSE
+17-11-2021,4.684170419,Asia Pacific,Associated Natural Gas Liquids,FALSE
+18-11-2021,75.46411951,North America,Natural Gas,FALSE
+19-11-2021,18474,North America,Crude Oil,FALSE
+20-11-2021,27.75446225,Europe,Natural Gas,FALSE
+21-11-2021,90918,Middle East,Crude Oil,TRUE
+22-11-2021,87306,Africa,Crude Oil,TRUE
+23-11-2021,77.90012427,Europe,Natural Gas,FALSE
+24-11-2021,71.30201305,Europe,Natural Gas,FALSE
+25-11-2021,13.07066806,Europe,Associated Natural Gas Liquids,FALSE
+26-11-2021,87.78221873,Asia Pacific,Natural Gas,FALSE
+27-11-2021,62640,Middle East,Crude Oil,FALSE
+28-11-2021,49.79872575,Asia Pacific,Natural Gas,FALSE
+29-11-2021,9393.043723,Asia Pacific,Natural Gas,FALSE
+30-11-2021,2.409622467,Africa,Associated Natural Gas Liquids,FALSE
+01-12-2021,13.3846521,Asia Pacific,Natural Gas,FALSE
+02-12-2021,16.90579011,Middle East,Natural Gas,FALSE
+03-12-2021,12.28751655,Africa,Associated Natural Gas Liquids,FALSE
+04-12-2021,62.22964667,Middle East,Natural Gas,FALSE
+05-12-2021,91.81449609,Europe,Natural Gas,FALSE
+06-12-2021,4.576549836,Europe,Associated Natural Gas Liquids,FALSE
+07-12-2021,55.12305717,Middle East,Natural Gas,FALSE
+08-12-2021,19.31516895,Asia Pacific,Natural Gas,FALSE
+09-12-2021,2.602253508,North America,Associated Natural Gas Liquids,FALSE
+10-12-2021,37472,Africa,Crude Oil,FALSE
+11-12-2021,57.16616979,Europe,Natural Gas,FALSE
+12-12-2021,52696,Asia Pacific,Crude Oil,FALSE
+13-12-2021,44.86749036,Asia Pacific,Natural Gas,FALSE
+14-12-2021,12.35983139,Asia Pacific,Associated Natural Gas Liquids,FALSE
+15-12-2021,300,Middle East,Crude Oil,FALSE
+16-12-2021,13.88920755,Asia Pacific,Associated Natural Gas Liquids,FALSE
+17-12-2021,75.13602895,Europe,Natural Gas,FALSE
+18-12-2021,48694,Middle East,Crude Oil,FALSE
+19-12-2021,13.60863001,Asia Pacific,Associated Natural Gas Liquids,FALSE
+20-12-2021,97.09268569,Africa,Natural Gas,FALSE
+21-12-2021,82993,Middle East,Crude Oil,TRUE
+22-12-2021,60.30298631,Asia Pacific,Natural Gas,FALSE
+23-12-2021,92833,Europe,Crude Oil,TRUE
+24-12-2021,89675,Africa,Crude Oil,TRUE
+25-12-2021,7.874733831,Asia Pacific,Associated Natural Gas Liquids,FALSE
+26-12-2021,26.22366306,North America,Natural Gas,FALSE
+27-12-2021,95.29014408,Africa,Natural Gas,FALSE
+28-12-2021,34693,North America,Crude Oil,FALSE
+29-12-2021,15114,Asia Pacific,Crude Oil,FALSE
+30-12-2021,71543,Europe,Crude Oil,TRUE
+31-12-2021,17.78996114,Middle East,Associated Natural Gas Liquids,FALSE
+01-01-2022,7.398523067,Europe,Associated Natural Gas Liquids,FALSE
+02-01-2022,83282,Africa,Crude Oil,TRUE
+03-01-2022,26266,North America,Crude Oil,FALSE
+04-01-2022,15.65085846,North America,Associated Natural Gas Liquids,FALSE
+05-01-2022,9.315794698,Africa,Associated Natural Gas Liquids,FALSE
+06-01-2022,70.872663,North America,Natural Gas,FALSE
+07-01-2022,64.95358799,Africa,Natural Gas,FALSE
+08-01-2022,74993,North America,Crude Oil,TRUE
+09-01-2022,96.90369735,Africa,Natural Gas,FALSE
+10-01-2022,53213,Europe,Crude Oil,FALSE
+11-01-2022,51.55119806,Asia Pacific,Natural Gas,FALSE
+12-01-2022,55.26160223,Africa,Natural Gas,FALSE
+13-01-2022,31174,Europe,Crude Oil,FALSE
+15-01-2022,10.13122245,Asia Pacific,Associated Natural Gas Liquids,FALSE
+16-01-2022,18.75157753,Europe,Associated Natural Gas Liquids,FALSE
+17-01-2022,42363,Middle East,Crude Oil,FALSE
+18-01-2022,40755,Africa,Crude Oil,FALSE
+19-01-2022,3.799624464,Africa,Associated Natural Gas Liquids,FALSE
+20-01-2022,34102,Africa,Crude Oil,FALSE
+21-01-2022,93.74247344,Africa,Natural Gas,FALSE
+22-01-2022,56964,Europe,Crude Oil,FALSE
+23-01-2022,31.22002665,Middle East,Natural Gas,FALSE
+24-01-2022,30.20848827,Asia Pacific,Natural Gas,FALSE
+25-01-2022,98677,Asia Pacific,Crude Oil,TRUE
+26-01-2022,23035,Middle East,Crude Oil,FALSE
+27-01-2022,92.56565545,Africa,Natural Gas,FALSE
+28-01-2022,16.79109923,Africa,Associated Natural Gas Liquids,FALSE
+29-01-2022,65.38134314,Middle East,Natural Gas,FALSE
+30-01-2022,38544,North America,Crude Oil,FALSE
+31-01-2022,76932,Europe,Crude Oil,TRUE
+01-02-2022,9.04184042,Asia Pacific,Associated Natural Gas Liquids,FALSE
+02-02-2022,44472,Middle East,Crude Oil,FALSE
+03-02-2022,36252,Africa,Crude Oil,FALSE
+04-02-2022,16.08408306,Africa,Associated Natural Gas Liquids,FALSE
+05-02-2022,19530,Africa,Crude Oil,FALSE
+06-02-2022,11.1850219,Europe,Associated Natural Gas Liquids,FALSE
+07-02-2022,5.596824554,North America,Associated Natural Gas Liquids,FALSE
+08-02-2022,48.63150038,Europe,Natural Gas,FALSE
+09-02-2022,31.65078149,Africa,Natural Gas,FALSE
+10-02-2022,92080,Middle East,Crude Oil,TRUE
+11-02-2022,19.51843533,Middle East,Associated Natural Gas Liquids,FALSE
+12-02-2022,11.33755724,Europe,Associated Natural Gas Liquids,FALSE
+13-02-2022,1.386351819,Africa,Associated Natural Gas Liquids,FALSE
+14-02-2022,88318,Africa,Crude Oil,TRUE
+15-02-2022,32.8285235,Middle East,Natural Gas,FALSE
+16-02-2022,80.96680147,Asia Pacific,Natural Gas,FALSE
+17-02-2022,91127,Middle East,Crude Oil,TRUE
+18-02-2022,14.96855271,Asia Pacific,Associated Natural Gas Liquids,FALSE
+19-02-2022,10811,Asia Pacific,Crude Oil,FALSE
+20-02-2022,7.432397905,North America,Associated Natural Gas Liquids,FALSE
+21-02-2022,67,Africa,Associated Natural Gas Liquids,FALSE
+22-02-2022,4.46328197,North America,Associated Natural Gas Liquids,FALSE
+23-02-2022,98853,Africa,Crude Oil,TRUE
+24-02-2022,43462,North America,Crude Oil,FALSE
+25-02-2022,31144,Middle East,Crude Oil,FALSE
+26-02-2022,94.0033882,Europe,Natural Gas,FALSE
+27-02-2022,99.02104321,Europe,Natural Gas,FALSE
+28-02-2022,32.79823887,North America,Natural Gas,FALSE
+01-03-2022,42.12767584,Middle East,Natural Gas,FALSE
+02-03-2022,7.306569041,Middle East,Associated Natural Gas Liquids,FALSE
+03-03-2022,49.32562448,Africa,Natural Gas,FALSE
+04-03-2022,9393.043723,Africa,Associated Natural Gas Liquids,FALSE
+05-03-2022,97.63512259,Africa,Natural Gas,FALSE
+06-03-2022,10.45294446,Europe,Associated Natural Gas Liquids,FALSE
+07-03-2022,82.10332787,Africa,Natural Gas,FALSE
+08-03-2022,61440,Europe,Crude Oil,FALSE
+09-03-2022,76496,Asia Pacific,Crude Oil,TRUE
+10-03-2022,19.2338117,Asia Pacific,Natural Gas,FALSE
+11-03-2022,6.617159037,Africa,Associated Natural Gas Liquids,FALSE
+12-03-2022,14.63559531,North America,Associated Natural Gas Liquids,FALSE
+13-03-2022,9.434259241,Africa,Associated Natural Gas Liquids,FALSE
+14-03-2022,51210,Europe,Crude Oil,FALSE
+15-03-2022,34.70998241,Middle East,Natural Gas,FALSE
+16-03-2022,92973,Africa,Crude Oil,TRUE
+17-03-2022,56.17774175,North America,Natural Gas,FALSE
+18-03-2022,23714,Europe,Crude Oil,FALSE
+19-03-2022,15.84492743,Middle East,Associated Natural Gas Liquids,FALSE
+20-03-2022,13812,North America,Crude Oil,FALSE
+21-03-2022,7.960240989,Africa,Associated Natural Gas Liquids,FALSE
+22-03-2022,1.615321156,North America,Associated Natural Gas Liquids,FALSE
+23-03-2022,9.548528806,Asia Pacific,Associated Natural Gas Liquids,FALSE
+24-03-2022,49.95453603,Middle East,Natural Gas,FALSE
+25-03-2022,3.616207049,Asia Pacific,Associated Natural Gas Liquids,FALSE
+26-03-2022,1500,Asia Pacific,Natural Gas,FALSE
+27-03-2022,19869,Middle East,Crude Oil,FALSE
+28-03-2022,4.53491294,Europe,Associated Natural Gas Liquids,FALSE
+29-03-2022,92.21882552,Middle East,Natural Gas,FALSE
+30-03-2022,79.74680352,Africa,Natural Gas,FALSE
+31-03-2022,85199,Asia Pacific,Crude Oil,TRUE
+01-04-2022,18.41309928,Africa,Associated Natural Gas Liquids,FALSE
+02-04-2022,21074,North America,Crude Oil,FALSE
+03-04-2022,99,North America,Crude Oil,FALSE
+04-04-2022,9.457112662,Middle East,Associated Natural Gas Liquids,FALSE
+05-04-2022,19.38366349,Asia Pacific,Associated Natural Gas Liquids,FALSE
+06-04-2022,7.6010806,Middle East,Associated Natural Gas Liquids,FALSE
+07-04-2022,11.30125586,Asia Pacific,Associated Natural Gas Liquids,FALSE
+08-04-2022,98298,North America,Crude Oil,TRUE
+09-04-2022,55.78801707,Middle East,Natural Gas,FALSE
+10-04-2022,23202,North America,Crude Oil,FALSE
+11-04-2022,12.36556241,Europe,Natural Gas,FALSE
+12-04-2022,8.009312145,Europe,Associated Natural Gas Liquids,FALSE
+13-04-2022,85209,Middle East,Crude Oil,TRUE
+14-04-2022,45539,Africa,Crude Oil,FALSE
+15-04-2022,14.65852354,Europe,Associated Natural Gas Liquids,FALSE
+16-04-2022,79.22480953,Europe,Natural Gas,FALSE
+17-04-2022,21426,Asia Pacific,Crude Oil,FALSE
+18-04-2022,2.409135376,Africa,Associated Natural Gas Liquids,FALSE
+19-04-2022,10.82984022,North America,Associated Natural Gas Liquids,FALSE
+20-04-2022,13.15608466,North America,Associated Natural Gas Liquids,FALSE
+21-04-2022,61704,Europe,Crude Oil,FALSE
+22-04-2022,21274,Europe,Crude Oil,FALSE
+23-04-2022,44862,North America,Crude Oil,FALSE
+24-04-2022,47291,North America,Crude Oil,FALSE
+25-04-2022,95.27348231,Europe,Natural Gas,FALSE
+27-04-2022,88238,Europe,Crude Oil,TRUE
+28-04-2022,21.26532656,Asia Pacific,Natural Gas,FALSE
+29-04-2022,11.13608257,Europe,Associated Natural Gas Liquids,FALSE
+30-04-2022,4.204082133,Europe,Associated Natural Gas Liquids,FALSE
+01-05-2022,27439,Europe,Crude Oil,FALSE
+02-05-2022,18.13801698,Asia Pacific,Associated Natural Gas Liquids,FALSE
+03-05-2022,1.782691767,Middle East,Associated Natural Gas Liquids,FALSE
+04-05-2022,10958,Europe,Crude Oil,FALSE
+05-05-2022,68.60169797,Europe,Natural Gas,FALSE
+06-05-2022,65.62975837,Middle East,Natural Gas,FALSE
+07-05-2022,90.00971933,Europe,Natural Gas,FALSE
+08-05-2022,67.77165604,Asia Pacific,Natural Gas,FALSE
+09-05-2022,32.03901196,Africa,Natural Gas,FALSE
+10-05-2022,50.81897197,Middle East,Natural Gas,FALSE
+11-05-2022,62619,Africa,Crude Oil,FALSE
+12-05-2022,51.7997942,Asia Pacific,Natural Gas,FALSE
+13-05-2022,3.729705132,Asia Pacific,Associated Natural Gas Liquids,FALSE
+14-05-2022,19.77244402,Asia Pacific,Associated Natural Gas Liquids,FALSE
+15-05-2022,21.76895364,Asia Pacific,Natural Gas,FALSE
+16-05-2022,11.6713731,Asia Pacific,Associated Natural Gas Liquids,FALSE
+17-05-2022,66141,Middle East,Crude Oil,FALSE
+18-05-2022,50.46364108,North America,Natural Gas,FALSE
+19-05-2022,11632,Asia Pacific,Crude Oil,FALSE
+21-05-2022,25932,Asia Pacific,Crude Oil,FALSE
+22-05-2022,14.70144015,North America,Associated Natural Gas Liquids,FALSE
+23-05-2022,70308,Europe,Crude Oil,TRUE
+24-05-2022,54.88837376,Asia Pacific,Natural Gas,FALSE
+25-05-2022,12.08586684,Africa,Natural Gas,FALSE
+26-05-2022,9.687382202,North America,Associated Natural Gas Liquids,FALSE
+27-05-2022,81460,Asia Pacific,Crude Oil,TRUE
+28-05-2022,11624,Asia Pacific,Crude Oil,FALSE
+29-05-2022,63.77668939,Africa,Natural Gas,FALSE
+30-05-2022,58.30216744,Middle East,Natural Gas,FALSE
+31-05-2022,22.05414496,Asia Pacific,Natural Gas,FALSE
+01-06-2022,7.949775156,Africa,Associated Natural Gas Liquids,FALSE
+02-06-2022,14.07181551,Middle East,Natural Gas,FALSE
+03-06-2022,11.67452044,Asia Pacific,Associated Natural Gas Liquids,FALSE
+04-06-2022,6.483432244,Africa,Associated Natural Gas Liquids,FALSE
+05-06-2022,9.556733232,Europe,Associated Natural Gas Liquids,FALSE
+06-06-2022,84.27801862,Europe,Natural Gas,FALSE
+07-06-2022,12.60981968,North America,Associated Natural Gas Liquids,FALSE
+08-06-2022,56629,Asia Pacific,Crude Oil,FALSE
+09-06-2022,60.20486544,Asia Pacific,Natural Gas,FALSE
+10-06-2022,31090,Europe,Crude Oil,FALSE
+11-06-2022,8.626354601,Middle East,Associated Natural Gas Liquids,FALSE
+12-06-2022,10100,North America,Crude Oil,FALSE
+13-06-2022,7.327773402,Africa,Associated Natural Gas Liquids,FALSE
+14-06-2022,9.682782626,Europe,Associated Natural Gas Liquids,FALSE
+15-06-2022,3.65583873,Europe,Associated Natural Gas Liquids,FALSE
+16-06-2022,24.62518413,Europe,Natural Gas,FALSE
+17-06-2022,17.00943662,Europe,Associated Natural Gas Liquids,FALSE
+18-06-2022,55.65834876,Europe,Natural Gas,FALSE
+19-06-2022,10.30708639,Europe,Associated Natural Gas Liquids,FALSE
+20-06-2022,52.740334,Middle East,Natural Gas,FALSE
+21-06-2022,39.81156342,Middle East,Natural Gas,FALSE
+22-06-2022,62.53319277,Middle East,Natural Gas,FALSE
+23-06-2022,10.01721407,Europe,Associated Natural Gas Liquids,FALSE
+24-06-2022,5.323321281,Middle East,Associated Natural Gas Liquids,FALSE
+25-06-2022,10.12852689,Europe,Associated Natural Gas Liquids,FALSE
+26-06-2022,14.70247387,Africa,Associated Natural Gas Liquids,FALSE
+27-06-2022,9393.043723,North America,Crude Oil,FALSE
+28-06-2022,80047,Middle East,Crude Oil,TRUE
+29-06-2022,7482,Africa,Crude Oil,FALSE
+30-06-2022,47.69022684,Africa,Natural Gas,FALSE
+01-07-2022,4.873941971,Europe,Associated Natural Gas Liquids,FALSE
+02-07-2022,18.48989805,Middle East,Associated Natural Gas Liquids,FALSE
+03-07-2022,3.62356723,North America,Associated Natural Gas Liquids,FALSE
+04-07-2022,7.175941154,Africa,Associated Natural Gas Liquids,FALSE
+05-07-2022,8.159670748,North America,Associated Natural Gas Liquids,FALSE
+06-07-2022,92.09117448,Asia Pacific,Natural Gas,FALSE
+07-07-2022,7.731452784,Asia Pacific,Associated Natural Gas Liquids,FALSE
+08-07-2022,10.19942193,North America,Associated Natural Gas Liquids,FALSE
+09-07-2022,60.22779857,North America,Natural Gas,FALSE
+10-07-2022,79.40568422,North America,Natural Gas,FALSE
+11-07-2022,14.39477694,Asia Pacific,Associated Natural Gas Liquids,FALSE
+12-07-2022,41.39228568,Asia Pacific,Natural Gas,FALSE
+13-07-2022,20.96866952,Europe,Natural Gas,FALSE
+14-07-2022,90.61844154,Africa,Natural Gas,FALSE
+15-07-2022,95.91479771,North America,Natural Gas,FALSE
+16-07-2022,13.78598381,Middle East,Natural Gas,FALSE
+17-07-2022,93.16086687,Asia Pacific,Natural Gas,FALSE
+18-07-2022,10.102506,North America,Associated Natural Gas Liquids,FALSE
+19-07-2022,6.151521718,Europe,Associated Natural Gas Liquids,FALSE
+20-07-2022,6.160807867,Middle East,Associated Natural Gas Liquids,FALSE
+21-07-2022,15.07692856,North America,Associated Natural Gas Liquids,FALSE
+22-07-2022,11653,Europe,Crude Oil,FALSE
+23-07-2022,88616,North America,Crude Oil,TRUE
+24-07-2022,18133,Africa,Crude Oil,FALSE
+25-07-2022,74.56222506,Middle East,Natural Gas,FALSE
+26-07-2022,15.6445551,Middle East,Associated Natural Gas Liquids,FALSE
+27-07-2022,19.58030352,North America,Associated Natural Gas Liquids,FALSE
+28-07-2022,68.76035179,Africa,Natural Gas,FALSE
+29-07-2022,68.54848227,Asia Pacific,Natural Gas,FALSE
+30-07-2022,35.68738072,Middle East,Natural Gas,FALSE
+31-07-2022,90498,Europe,Crude Oil,TRUE
+01-08-2022,75143,Middle East,Crude Oil,TRUE
+02-08-2022,59773,North America,Crude Oil,FALSE
+04-08-2022,42941,Middle East,Crude Oil,FALSE
+05-08-2022,44110,Europe,Crude Oil,FALSE
+06-08-2022,3.038713125,Asia Pacific,Associated Natural Gas Liquids,FALSE
+07-08-2022,50.89141703,Europe,Natural Gas,FALSE
+08-08-2022,10.38433599,North America,Associated Natural Gas Liquids,FALSE
+09-08-2022,9.892394611,North America,Associated Natural Gas Liquids,FALSE
+10-08-2022,48343,North America,Crude Oil,FALSE
+11-08-2022,9.71937495,Asia Pacific,Associated Natural Gas Liquids,FALSE
+12-08-2022,4.537782313,Asia Pacific,Associated Natural Gas Liquids,FALSE
+13-08-2022,61.10031002,North America,Natural Gas,FALSE
+14-08-2022,85079,Africa,Crude Oil,TRUE
+15-08-2022,56.37525931,Middle East,Natural Gas,FALSE
+16-08-2022,70.23302681,North America,Natural Gas,FALSE
+18-08-2022,5895,Asia Pacific,Crude Oil,FALSE
+19-08-2022,31.19691275,Asia Pacific,Natural Gas,FALSE
+20-08-2022,37.17512557,Europe,Natural Gas,FALSE
+21-08-2022,39282,Asia Pacific,Crude Oil,FALSE
+22-08-2022,5.489748971,Middle East,Associated Natural Gas Liquids,FALSE
+23-08-2022,37.61257078,Africa,Natural Gas,FALSE
+24-08-2022,10.54788895,Asia Pacific,Associated Natural Gas Liquids,FALSE
+25-08-2022,0,Asia Pacific,Associated Natural Gas Liquids,FALSE
+26-08-2022,65.31629033,North America,Natural Gas,FALSE
+27-08-2022,45903,North America,Crude Oil,FALSE
+28-08-2022,77.29613534,Europe,Natural Gas,FALSE
+29-08-2022,47.42610539,Europe,Natural Gas,FALSE
+30-08-2022,78.1615471,North America,Natural Gas,FALSE
+31-08-2022,94173,Europe,Crude Oil,TRUE
+01-09-2022,73879,Africa,Crude Oil,TRUE
+02-09-2022,14.37155638,Middle East,Associated Natural Gas Liquids,FALSE
+03-09-2022,3.131967039,Europe,Associated Natural Gas Liquids,FALSE
+04-09-2022,4.8409788,Europe,Associated Natural Gas Liquids,FALSE
+05-09-2022,26566,Asia Pacific,Crude Oil,FALSE
+06-09-2022,9.394970501,North America,Associated Natural Gas Liquids,FALSE
+07-09-2022,12.07980589,Middle East,Associated Natural Gas Liquids,FALSE
+08-09-2022,9.464171152,Middle East,Associated Natural Gas Liquids,FALSE
+09-09-2022,21.87499058,Africa,Natural Gas,FALSE
+10-09-2022,60.75200666,Europe,Natural Gas,FALSE
+11-09-2022,70.5490941,Asia Pacific,Natural Gas,FALSE
+12-09-2022,9393.043723,Asia Pacific,Associated Natural Gas Liquids,FALSE
+13-09-2022,33560,Europe,Crude Oil,FALSE
+14-09-2022,10936,Africa,Crude Oil,FALSE
+15-09-2022,73.03463903,Europe,Natural Gas,FALSE
+16-09-2022,14046,Africa,Crude Oil,FALSE
+17-09-2022,42629,Africa,Crude Oil,FALSE
+18-09-2022,9393.043723,Africa,Crude Oil,FALSE
+19-09-2022,99.35709387,Africa,Natural Gas,FALSE
+20-09-2022,88.26582568,Africa,Natural Gas,FALSE
+21-09-2022,17.22249934,Europe,Natural Gas,FALSE
+22-09-2022,90660,Asia Pacific,Crude Oil,TRUE
+23-09-2022,28392,Europe,Crude Oil,FALSE
+24-09-2022,57.59582856,North America,Natural Gas,FALSE
+25-09-2022,7979,Asia Pacific,Crude Oil,FALSE
+26-09-2022,70.6149872,Europe,Natural Gas,FALSE
+27-09-2022,57.87402476,North America,Natural Gas,FALSE
+28-09-2022,65375,Asia Pacific,Crude Oil,FALSE
+29-09-2022,41129,North America,Crude Oil,FALSE
+30-09-2022,15.54430866,Middle East,Associated Natural Gas Liquids,FALSE
+01-10-2022,8.965571371,Middle East,Associated Natural Gas Liquids,FALSE
+02-10-2022,32011,Middle East,Crude Oil,FALSE
+03-10-2022,82849,Middle East,Crude Oil,TRUE
+04-10-2022,63.80064071,Middle East,Natural Gas,FALSE
+05-10-2022,10798,Africa,Crude Oil,FALSE
+06-10-2022,31.09053506,North America,Natural Gas,FALSE
+07-10-2022,23367,Europe,Crude Oil,FALSE
+08-10-2022,31.07453654,Europe,Natural Gas,FALSE
+09-10-2022,61.97273332,Asia Pacific,Natural Gas,FALSE
+10-10-2022,44552,North America,Crude Oil,FALSE
+11-10-2022,10.90377003,Africa,Associated Natural Gas Liquids,FALSE
+12-10-2022,34.76385285,Europe,Natural Gas,FALSE
+13-10-2022,17.71456393,North America,Associated Natural Gas Liquids,FALSE
+14-10-2022,13.89625234,Europe,Associated Natural Gas Liquids,FALSE
+15-10-2022,14.21956873,Asia Pacific,Natural Gas,FALSE
+16-10-2022,13.75550797,Europe,Associated Natural Gas Liquids,FALSE
+17-10-2022,72.66775666,Africa,Natural Gas,FALSE
+18-10-2022,44306,Africa,Crude Oil,FALSE
+19-10-2022,75507,Africa,Crude Oil,TRUE
+20-10-2022,34536,Asia Pacific,Crude Oil,FALSE
+21-10-2022,3.742683234,Africa,Associated Natural Gas Liquids,FALSE
+22-10-2022,78713,Africa,Crude Oil,TRUE
+23-10-2022,60.15580824,North America,Natural Gas,FALSE
+25-10-2022,68.20352664,Africa,Natural Gas,FALSE
+26-10-2022,18.32175969,North America,Natural Gas,FALSE
+27-10-2022,40187,Africa,Crude Oil,FALSE
+28-10-2022,12.49441948,Middle East,Associated Natural Gas Liquids,FALSE
+29-10-2022,29662,Europe,Crude Oil,FALSE
+30-10-2022,13.75755992,North America,Associated Natural Gas Liquids,FALSE
+31-10-2022,28.80001797,Asia Pacific,Natural Gas,FALSE
+01-11-2022,96.13177845,Middle East,Natural Gas,FALSE
+02-11-2022,29906,Middle East,Crude Oil,FALSE
+03-11-2022,19.99186813,Africa,Associated Natural Gas Liquids,FALSE
+04-11-2022,96177,Europe,Crude Oil,TRUE
+05-11-2022,4.885749717,North America,Associated Natural Gas Liquids,FALSE
+06-11-2022,7.110685168,Asia Pacific,Associated Natural Gas Liquids,FALSE
+07-11-2022,51.96254148,Asia Pacific,Natural Gas,FALSE
+08-11-2022,33.54054646,Europe,Natural Gas,FALSE
+09-11-2022,51.94036602,Africa,Natural Gas,FALSE
+10-11-2022,92.2897449,Asia Pacific,Natural Gas,FALSE
+11-11-2022,47.25371535,Europe,Natural Gas,FALSE
+12-11-2022,24126,Middle East,Crude Oil,FALSE
+13-11-2022,59.79804072,Europe,Natural Gas,FALSE
+15-11-2022,30715,Asia Pacific,Crude Oil,FALSE
+16-11-2022,54786,Europe,Crude Oil,FALSE
+17-11-2022,70444,Europe,Crude Oil,TRUE
+18-11-2022,18.92582636,Asia Pacific,Associated Natural Gas Liquids,FALSE
+19-11-2022,78.70245631,Africa,Natural Gas,FALSE
+20-11-2022,13.19219463,Africa,Associated Natural Gas Liquids,FALSE
+21-11-2022,25.14102814,Asia Pacific,Natural Gas,FALSE
+22-11-2022,23344,Europe,Crude Oil,FALSE
+23-11-2022,26.56429956,Europe,Natural Gas,FALSE
+24-11-2022,19.18750098,Europe,Associated Natural Gas Liquids,FALSE
+25-11-2022,14742,Middle East,Crude Oil,FALSE
+26-11-2022,59053,North America,Crude Oil,FALSE
+27-11-2022,5.397234449,North America,Associated Natural Gas Liquids,FALSE
+28-11-2022,33668,Europe,Crude Oil,FALSE
+29-11-2022,43.58806234,Europe,Natural Gas,FALSE
+30-11-2022,13.66833986,Europe,Associated Natural Gas Liquids,FALSE
+01-12-2022,69.33559078,Middle East,Natural Gas,FALSE
+02-12-2022,74758,Europe,Crude Oil,TRUE
+03-12-2022,11.06658713,Europe,Natural Gas,FALSE
+04-12-2022,6.220074007,Asia Pacific,Associated Natural Gas Liquids,FALSE
+05-12-2022,70826,Africa,Crude Oil,TRUE
+06-12-2022,19026,Middle East,Crude Oil,FALSE
+07-12-2022,3.829052229,North America,Associated Natural Gas Liquids,FALSE
+08-12-2022,11.00266372,Asia Pacific,Associated Natural Gas Liquids,FALSE
+09-12-2022,81.54426989,Middle East,Natural Gas,FALSE
+10-12-2022,9393.043723,Africa,Natural Gas,FALSE
+11-12-2022,5.62094999,North America,Associated Natural Gas Liquids,FALSE
+12-12-2022,71.56374629,Middle East,Natural Gas,FALSE
+13-12-2022,19.8418194,Middle East,Associated Natural Gas Liquids,FALSE
+14-12-2022,58120,Africa,Crude Oil,FALSE
+15-12-2022,59.74312956,Middle East,Natural Gas,FALSE
+16-12-2022,1.17955328,North America,Associated Natural Gas Liquids,FALSE
+17-12-2022,70517,Africa,Crude Oil,TRUE
+18-12-2022,15.90314991,Europe,Associated Natural Gas Liquids,FALSE
+19-12-2022,74226,Middle East,Crude Oil,TRUE
+21-12-2022,34.39855474,Middle East,Natural Gas,FALSE
+22-12-2022,18.58611139,Europe,Associated Natural Gas Liquids,FALSE
+23-12-2022,13.50407557,North America,Associated Natural Gas Liquids,FALSE
+25-12-2022,3.739639664,Africa,Associated Natural Gas Liquids,FALSE
+26-12-2022,44226,North America,Crude Oil,FALSE
+27-12-2022,5.568971692,Africa,590,FALSE
+28-12-2022,18.03398957,Asia Pacific,Associated Natural Gas Liquids,FALSE
+29-12-2022,78.00483381,North America,Natural Gas,FALSE
+30-12-2022,9393.043723,Europe,Associated Natural Gas Liquids,FALSE
+31-12-2022,19.51214322,Middle East,Associated Natural Gas Liquids,FALSE
+19-01-2021,2500,Asia Pacific,Crude Oil,FALSE
+25-03-2022,33.895,Asia Pacific,Associated Natural Gas Liquids,FALSE

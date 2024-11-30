@@ -1,0 +1,77 @@
+Date,Incident_Type,Severity,Root_Cause,Location
+04-03-2021,Slip/Trip/Fall,Severe,Human Error,North America
+08-03-2021,Chemical Exposure,Severe,Unsafe Work Environment,Europe
+21-04-2021,Fire/Explosion,Severe,Equipment Failure,North America
+04-05-2021,Electrical Hazard,Severe,Procedural Error,Asia Pacific
+21-05-2021,Machinery Accident,Severe,Procedural Error,Asia Pacific
+15-06-2021,Electrical Hazard,Severe,Unsafe Work Environment,North America
+15-08-2021,Slip/Trip/Fall,Severe,Procedural Error,Europe
+16-10-2021,Machinery Accident,Severe,Equipment Failure,North America
+24-11-2021,Slip/Trip/Fall,Severe,Lack of Training,North America
+28-11-2021,Machinery Accident,Severe,Human Error,Middle East
+21-12-2021,Slip/Trip/Fall,Severe,Lack of Training,Europe
+08-01-2022,Machinery Accident,Severe,Lack of Training,Africa
+13-02-2022,Fire/Explosion,Severe,Equipment Failure,North America
+02-03-2022,Electrical Hazard,Severe,Lack of Training,North America
+06-03-2022,Slip/Trip/Fall,Severe,Lack of Training,Middle East
+11-03-2022,Machinery Accident,Severe,Human Error,Middle East
+20-04-2022,Machinery Accident,Severe,Lack of Training,Middle East
+26-06-2022,Electrical Hazard,Severe,Procedural Error,Middle East
+03-07-2022,Machinery Accident,Severe,Procedural Error,Middle East
+06-08-2022,Electrical Hazard,Severe,Unsafe Work Environment,Europe
+05-09-2022,Electrical Hazard,Severe,Unsafe Work Environment,North America
+26-09-2022,Fire/Explosion,Severe,Equipment Failure,Asia Pacific
+24-10-2022,Machinery Accident,Severe,Human Error,Asia Pacific
+21-11-2022,Electrical Hazard,Severe,Lack of Training,Europe
+04-02-2021,Machinery Accident,Moderate,Unsafe Work Environment,Middle East
+13-02-2021,Falling Objects,Moderate,Equipment Failure,Europe
+23-03-2021,Chemical Exposure,Moderate,Equipment Failure,Africa
+22-06-2021,Chemical Exposure,Moderate,Procedural Error,Europe
+05-07-2021,Machinery Accident,Moderate,Equipment Failure,Europe
+10-09-2021,Chemical Exposure,Moderate,Equipment Failure,Middle East
+16-09-2021,Chemical Exposure,Moderate,Unsafe Work Environment,Middle East
+09-10-2021,Chemical Exposure,Moderate,Procedural Error,Middle East
+13-11-2021,Slip/Trip/Fall,Moderate,Procedural Error,North America
+20-12-2021,Slip/Trip/Fall,Moderate,Lack of Training,North America
+01-02-2022,Slip/Trip/Fall,Moderate,Procedural Error,Africa
+17-03-2022,Electrical Hazard,Moderate,Procedural Error,North America
+25-03-2022,Electrical Hazard,Moderate,Unsafe Work Environment,Africa
+18-04-2022,Machinery Accident,Moderate,Lack of Training,Middle East
+04-07-2022,Machinery Accident,Moderate,Human Error,Africa
+31-07-2022,Fire/Explosion,Moderate,Human Error,Europe
+04-10-2022,Fire/Explosion,Moderate,Lack of Training,North America
+25-12-2022,Electrical Hazard,Moderate,Unsafe Work Environment,Africa
+21-01-2021,Electrical Hazard,Minor,Equipment Failure,Europe
+28-01-2021,Fire/Explosion,Minor,Human Error,North America
+05-02-2021,Falling Objects,Minor,Human Error,Europe
+06-02-2021,Machinery Accident,Minor,Lack of Training,Africa
+14-02-2021,Falling Objects,Minor,Unsafe Work Environment,Middle East
+09-04-2021,Chemical Exposure,Minor,Human Error,North America
+07-05-2021,Chemical Exposure,Minor,Lack of Training,Europe
+23-05-2021,Machinery Accident,Minor,Equipment Failure,Africa
+25-05-2021,Slip/Trip/Fall,Minor,Unsafe Work Environment,Europe
+04-06-2021,Falling Objects,Minor,Procedural Error,Europe
+14-06-2021,Electrical Hazard,Minor,Lack of Training,Middle East
+24-06-2021,Machinery Accident,Minor,Human Error,North America
+25-06-2021,Chemical Exposure,Minor,Human Error,Africa
+01-08-2021,Electrical Hazard,Minor,Lack of Training,Europe
+06-08-2021,Fire/Explosion,Minor,Human Error,Europe
+29-08-2021,Slip/Trip/Fall,Minor,Unsafe Work Environment,North America
+05-10-2021,Fire/Explosion,Minor,Unsafe Work Environment,Asia Pacific
+08-10-2021,Falling Objects,Minor,Human Error,Africa
+14-10-2021,Machinery Accident,Minor,Procedural Error,Middle East
+28-12-2021,Falling Objects,Minor,Procedural Error,Africa
+21-01-2022,Falling Objects,Minor,Equipment Failure,Asia Pacific
+03-02-2022,Machinery Accident,Minor,Human Error,Asia Pacific
+20-03-2022,Fire/Explosion,Minor,Lack of Training,Asia Pacific
+04-04-2022,Machinery Accident,Minor,Equipment Failure,North America
+21-04-2022,Machinery Accident,Minor,Human Error,North America
+23-05-2022,Falling Objects,Minor,Equipment Failure,Middle East
+02-07-2022,Slip/Trip/Fall,Minor,Human Error,Middle East
+02-08-2022,Falling Objects,Minor,Human Error,Asia Pacific
+15-08-2022,Chemical Exposure,Minor,Procedural Error,Africa
+18-08-2022,Fire/Explosion,Minor,Lack of Training,North America
+31-08-2022,Slip/Trip/Fall,Minor,Lack of Training,Asia Pacific
+09-10-2022,Fire/Explosion,Minor,Unsafe Work Environment,Asia Pacific
+25-11-2022,Machinery Accident,Minor,Procedural Error,Middle East
+18-12-2022,Machinery Accident,Minor,Human Error,Middle East
